@@ -23,7 +23,7 @@
 
 ### C. 能量与情感效价的相关性
 散点图揭示了音乐活跃度（Energy）与情绪正向度（Valence）之间的空间分布，为后续的流派聚类分析提供了重要依据。
-![能量效价散点图](images/scatter_energy_valence.jpg)
+![能量效价散点图](images/scatter_energy_valence.png)
 
 ### D. 不同音乐流派的平均可舞性排名
 直方图清晰展示了不同曲风的节奏属性，Reggaeton、Hip-Hop 和 Reggae 位列前三，是最能带动听众律动的流派。
