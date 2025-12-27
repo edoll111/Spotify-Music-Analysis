@@ -35,6 +35,6 @@
 * **算法**：Random Forest (流行度预测), Scikit-Learn (特征工程)
 
 ## 📂 文件说明
-* `main.py`: 包含数据清洗、特征分析及建模的完整核心代码。
+* `spotify.py`: 包含数据清洗、特征分析及建模的完整核心代码。
 * `SpotifyFeatures.csv`: 原始数据集。（太大了上传不了）
 * `images/`: 存放所有分析生成的图表。
