@@ -45,19 +45,14 @@
 直方图清晰展示了不同曲风的节奏属性，Reggaeton、Hip-Hop 和 Reggae 位列前三，是最能带动听众律动的流派。
 ![可舞性排名](images/genre_danceability_ranking.png)
 
-音乐特征聚类与画像
-利用 K-Means 算法与 PCA (主成分分析) 降维技术，将复杂的音频维度简化，识别出三类典型的听感画像：
-聚类标签 风格定义   典型特征描述
-Cluster 高能派对流 高能量 (0.77)、高响度 (-5.9dB)、高情绪正向度。
-Cluster 极简原声流 极高原声性 (0.90)、低能量、低响度，适合助眠或冥想。
-Cluster 均衡氛围感 各项指标中庸，属于主流流行或环境背景音乐。
 
 ## 🛠️ 技术栈
 * **语言**：Python 3.x、Numpy
 * **库**：Pandas, NumPy (数据处理); Matplotlib, Seaborn (数据可视化)
 * **算法**：Random Forest (流行度预测), Scikit-Learn (特征工程)
 
-📝 运行指南
+## 运行指南
+
 # 1. 确保安装依赖
 pip install pandas scikit-learn seaborn matplotlib
 # 2. 运行脚本
